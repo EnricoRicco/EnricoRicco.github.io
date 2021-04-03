@@ -170,7 +170,7 @@ a{
 
 #button{
     border: 2px solid white;
-    width: 4.5%;
+    width: fit-content;
     padding-right: 1%;
     padding-left: 0.7%;
     margin: auto;
