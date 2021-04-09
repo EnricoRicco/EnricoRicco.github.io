@@ -177,6 +177,7 @@ a{
     color:white;
     font-size: 30px;
     border: 2px solid white;
+    padding: 5%;
 }
 
 #but:hover{
