@@ -1,0 +1,21 @@
+<p id="port_2">Enrico Ricco</p>
+
+
+<p id="port"> Portfolio alternanza scuola lavoro </p>
+
+
+
+
+
+
+
+
+
+
+#port_2{
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 45px;
+    font-weight: bold;
+    
+}
