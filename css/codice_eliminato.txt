@@ -1,9 +1,0 @@
-<div id="back-image-home" class="bg-image" >
-      <div id="mask" class="mask">
-        <div class="h-100 d-flex justify-content-center align-items-center">
-          <a href="#########"><h1 class="text-white mb-0"  >Anno scolastico 2019-2020</h1></a> 
-        </div>
-      </div>
-    </div>
-
-    float:right; width: 20%;
